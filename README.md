@@ -7,7 +7,7 @@ Proyek ini adalah hasil akhir dari kelas **Belajar Membuat Aplikasi Web dengan R
 1. **Menampilkan Daftar Catatan**
 2. **Menambahkan Catatan Baru**
 3. **Menghapus Catatan**
-4. **Fitur Opsional **:
+4.**Fitur Opsional:**
    - Pencarian catatan.
    - Batas karakter pada judul catatan.
    - Arsip catatan.
